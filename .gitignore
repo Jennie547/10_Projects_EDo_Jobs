@@ -1,5 +1,7 @@
-*
-!.gitignore
-!*.c
-!*.md
-!*txt
+# *
+# !.gitignore
+# !*.c
+# !*.md
+# !*txt
+
+*.exe
